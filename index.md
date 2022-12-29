@@ -14,7 +14,7 @@ Apple App Store 및 Google PlayStore에서 다운로드 하실 수 있습니다.
 <a href= "https://apps.apple.com/kr/app/%EC%8A%A4%EC%BF%BC%EB%93%9C%EB%A7%A4%EB%8B%88%EC%95%84/id1531506476"><img src="downlodApp.jpg" /></a>
 <br>
 <br>
-<a href= "https://play.google.com/store/apps/details?id=com.fleaplay.squad.flutter"><img src="androidDownlodApp.jpg" /></a>
+<a href= "https://play.google.com/store/apps/details?id=com.fleaplay.squad.flutter"><img src="androidDownloadApp.png" /></a>
 <br>
 <br>
 문의사항은 아래 내용 참조 바랍니다. 
