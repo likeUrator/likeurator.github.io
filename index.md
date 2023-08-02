@@ -23,10 +23,10 @@ Apple App Store 및 Google PlayStore에서 다운로드 하실 수 있습니다.
 <br>
 <br>
 <br>
-홈페이지 주소 : https://likeurator.github.io/SquadMania/
+홈페이지 주소 : https://fleaplay.com/
 <br>
 <br>
-이메일 : amazinghajin@gmail.com
+이메일 : fleaplay.com@gmail.com
 <br>
 <br>
 
